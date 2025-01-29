@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @aniket7075
+- 👋 Hi, I’m  Aniket Husukale @aniket7075
   
 - 👀 I’m interested in software development, open-source contributions, and machine learning.
   
